@@ -1,4 +1,4 @@
-module github.com/damiannolan/sasl
+module github.com/fedibessrour-bce/sasl
 
 go 1.13
 
